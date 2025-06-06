@@ -1,0 +1,7 @@
+- Alluvial Soil 
+- Black Soil 
+- Red Soil 
+- Laterite Soil 
+- Desert Soil 
+- Mountain Soil 
+- Peaty and Marshy Soil 
